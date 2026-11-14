@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">OmniPost content workflow</title>
+  <desc id="desc">Upload, adapt, review, schedule, publish, and track.</desc>
+  <rect width="1200" height="300" rx="24" fill="#102c3a"/>
+  <g fill="#ffffff" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="54" font-size="24" font-weight="700">One content workflow, tailored to every channel</text>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(60 105)"><rect width="150" height="105" rx="14" fill="#ffffff"/><text x="75" y="48" fill="#168878" font-size="15" font-weight="700">01</text><text x="75" y="76" fill="#17212b" font-size="18" font-weight="700">Upload</text></g>
+    <g transform="translate(246 105)"><rect width="150" height="105" rx="14" fill="#ffffff"/><text x="75" y="48" fill="#168878" font-size="15" font-weight="700">02</text><text x="75" y="76" fill="#17212b" font-size="18" font-weight="700">Adapt</text></g>
+    <g transform="translate(432 105)"><rect width="150" height="105" rx="14" fill="#ffffff"/><text x="75" y="48" fill="#168878" font-size="15" font-weight="700">03</text><text x="75" y="76" fill="#17212b" font-size="18" font-weight="700">Review</text></g>
+    <g transform="translate(618 105)"><rect width="150" height="105" rx="14" fill="#ffffff"/><text x="75" y="48" fill="#168878" font-size="15" font-weight="700">04</text><text x="75" y="76" fill="#17212b" font-size="18" font-weight="700">Schedule</text></g>
+    <g transform="translate(804 105)"><rect width="150" height="105" rx="14" fill="#dff35c"/><text x="75" y="48" fill="#168878" font-size="15" font-weight="700">05</text><text x="75" y="76" fill="#17212b" font-size="18" font-weight="700">Publish</text></g>
+    <g transform="translate(990 105)"><rect width="150" height="105" rx="14" fill="#ffffff"/><text x="75" y="48" fill="#168878" font-size="15" font-weight="700">06</text><text x="75" y="76" fill="#17212b" font-size="18" font-weight="700">Track</text></g>
+  </g>
+</svg>
